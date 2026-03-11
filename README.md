@@ -25,7 +25,7 @@ The tool helps security researchers quickly identify the structure of vulnerable
 Clone the repository:
 
 ```
-git clone https://github.com/YOURUSERNAME/unionhunter.git
+git clone https://github.com/Songul-Kizilay/unionhunter.git
 ```
 
 Install dependencies:
